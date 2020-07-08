@@ -1,0 +1,43 @@
+.tab-list {
+  border-bottom: 1px solid #999;
+  padding-left: 0;
+  color: #000;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #999;
+  border-width: 1px 1px 0 1px;
+}
+
+/* item.tags {
+  background-color: #ddd;
+} */
+
+
+.main {
+max-width: 1280px;
+min-width: 450px;
+margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.listBooks {
+  border: solid #999;
+  border-width: 0 1px 1px 1px;
+  border-collapse: collapse;
+}
+
+li {
+  list-style-type: none;
+}
